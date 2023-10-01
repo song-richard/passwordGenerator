@@ -1,5 +1,15 @@
 // Assignment code here
+function generatePassword() {
+  let newPassword = ""
+  const char = "#$%&'()*+,-./:;<=>?@[^_`{|}~"
 
+
+  for (i = 0; i < char.length; i++) {
+    const randomIndex = Math.floor(Math.random() * char.length);
+    newPassword += char[randomIndex];
+  }
+  return newPassword
+}
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
