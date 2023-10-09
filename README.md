@@ -8,6 +8,11 @@ The password generator will provide a randomized password based on their selecti
 
 https://github.com/song-richard/passwordGenerator
 
+
+## Link to Deployed Application:
+
+https://song-richard.github.io/passwordGenerator/
+
 ## Usage
 
 Screenshot:
