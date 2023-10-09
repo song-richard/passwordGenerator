@@ -11,3 +11,4 @@ https://github.com/song-richard/passwordGenerator
 ## Usage
 
 Screenshot:
+![Password Generator Screenshot:](/Develop/images/pwGenScreenshot.png)
